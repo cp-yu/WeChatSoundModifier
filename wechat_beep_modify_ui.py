@@ -78,6 +78,7 @@ def drop_file(event, entry):
         new_dll_entry.insert(0, dll_entry.get())
 
 if __name__ == "__main__":
+    
     # GUI界面
     root = TkinterDnD.Tk()  # 使用TkinterDnD以支持拖拽
     root.title("微信提示音替换工具")

@@ -1,3 +1,6 @@
 ffmpeg.exe
 ResourceHacker.*
 __pycache__
+.conda
+*.wav
+*.code-workspace

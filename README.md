@@ -6,6 +6,8 @@ python代码中可以发现使用了ffmpeg、ResourceHacker两个软件。
   其中，ResourceHacker是必须的，用于修改WeChatResource.dll文件。
   ffmpeg仅用于将非wav格式的音频文件修改为wav格式。
 
+bat文件：方便以管理员身份运行。因为微信安装文件夹有权限保护，使用管理员身份更方便。bat里面的路径按需更改。
+
 ## Third-Party Software
 
 This software utilizes the following third-party tools:
